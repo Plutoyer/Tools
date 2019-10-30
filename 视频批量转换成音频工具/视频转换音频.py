@@ -1,3 +1,4 @@
+#需手动安装ffmpeg和ffmpy3，ffmpeg.exe需与此项目在同一文件夹内
 import os
 from ffmpy3 import FFmpeg
 
