@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-# __author__ = "zok"  362416272@qq.com
-# Date: 2019-04-26  Python: 3.7
-
-# 本代码参考  github作者：CriseLYJ
-
 import requests
 import js2py
 
